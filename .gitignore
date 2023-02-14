@@ -1,0 +1,4 @@
+vebs.txt
+*.jpg
+!vebs.jpj
+/images
